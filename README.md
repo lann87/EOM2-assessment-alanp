@@ -2,9 +2,9 @@
 # End of module 2 assessment - Alan Peh  
 As part of module 2 of NTU's Cloud Engineering course, our instructors have introduced a series of challenges aimed at assessing our proficiency in cloud infrastructure management and service deployment. These tasks not only provide insight into our current skill levels but also help solidify the key competencies and knowledge required before advancing to module 3. By identifying areas for improvement, we ensure continuous growth and refinement in critical cloud technologies.  
 
-## Topics & Competencies  
+# Topics & Competencies  
 
-1. Server Basics  
+# 1. Server Basics  
 ### Things To Know:  
 - Good understanding of basic server networking including protocols like TCP, UDP, SSH, HTTP etc.  
 - Good understanding of basic server security including protocols like HTTPS and TLS/SSL, and also good grasp of blacklisting and whitelisting and its use cases.  
@@ -22,7 +22,7 @@ As part of module 2 of NTU's Cloud Engineering course, our instructors have intr
 - Able to work well with basic Linux commands found here: [Linux CLI](https://docs.google.com/document/d/1JP2iKkmgAMrj6DmNYvu4EKrL42e-NR7AeKxkhGN0pGk/edit?usp=sharing)  
 - Able to work well with basic Windows powershell commands found here: [Powershell](https://docs.google.com/document/d/1zYae1-hU_v3pDDPNgCNdXJWIMeI6i6yPvZ0mTtKAoeA/edit?usp=sharing)  
 
-2. AWS Cloud  
+# 2. AWS Cloud  
 ### Things to Know:  
 - Good understanding of AWS networking basics which includes Regions, AZs, VPC, Subnets, Security Groups, Internet Gateway, NAT Gateway, Route Tables etc.  
 - Good knowledge of EC2 compute resources which includes EBS and creating AMI.  
@@ -45,8 +45,7 @@ As part of module 2 of NTU's Cloud Engineering course, our instructors have intr
 - Further Test: Use the Launch Template earlier to create an application load balancer with auto-scaling enabled. Min EC2 = 1, Max EC2 = 3. Test whether you are able to scale up the number of EC2s from 1 to 3.  
 - Further Test: Create a simple Lambda function that prints “Hello World” via Python. LINK.  
 
-
-3. Docker  
+# 3. Docker  
 Things to Know:
 Good understanding on containerization technology, particularly Docker, and how containerization can help with portability and scalability of your application.
 Good understanding and experience building, packaging and publishing Docker images from Dockerfile to ECR.
