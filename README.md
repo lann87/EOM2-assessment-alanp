@@ -1,13 +1,9 @@
 ![Alt Text](https://github.com/lann87/cloud_infra_eng_ntu_coursework_alanp/blob/main/.misc/ntu_logo.png)  
-# EOM2-assessment-alanp
-End of module 2 assessment challenges by instructors from NTU - Cloud Engineering course.
+# End of module 2 assessment - Alan Peh  
+As part of module 2 of NTU's Cloud Engineering course, our instructors have introduced a series of challenges aimed at assessing our proficiency in cloud infrastructure management and service deployment. These tasks not only provide insight into our current skill levels but also help solidify the key competencies and knowledge required before advancing to module 3. By identifying areas for improvement, we ensure continuous growth and refinement in critical cloud technologies.  
 
-## Overview  
-### This document highlights the competencies and knowledge that learners are to be aware of at the end of module 2, prior to starting module 3.  
+## Topics & Competencies  
 
-Do take some time to brush up on these required skills during the 2 weeks break, and feel free to reach out to the instructors via Discord questions thread to clarify any information.  
-
-### Topics & Competencies  
 1. Server Basics  
 ### Things To Know:  
 - Good understanding of basic server networking including protocols like TCP, UDP, SSH, HTTP etc.  
