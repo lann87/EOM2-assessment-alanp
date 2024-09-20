@@ -22,17 +22,20 @@ As part of module 2 of NTU's Cloud Engineering course, our instructors have intr
 
 ### Test Yourself:  
 
-1. Able to curl public API endpoints using powershell, terminal and Postman API. Use one or several of these publicly available endpoints here: https://github.com/public-apis/public-apis .  :white_check_mark: **Task Completed**  
+1. Able to curl public API endpoints using powershell, terminal and Postman API. Use one or several of these publicly available endpoints here: https://github.com/public-apis/public-apis.  
+:white_check_mark: **Task Completed**  
 
     - E.g. https://www.ipify.org/ to get public IP address.  
     - E.g. https://api.chucknorris.io/ to get fun Chuck Norris facts.  
     - E.g. https://uselessfacts.jsph.pl/ to get fun daily facts.  
     - Feel free to use more endpoints, especially those that require authentication, to test your understanding on creating API keys for accessing those endpoints.  
 
-2. Able to work well with basic Linux commands found here: [Linux CLI](https://docs.google.com/document/d/1JP2iKkmgAMrj6DmNYvu4EKrL42e-NR7AeKxkhGN0pGk/edit?usp=sharing). :white_check_mark: **Task Completed**  
+2. Able to work well with basic Linux commands found here: [Linux CLI](https://docs.google.com/document/d/1JP2iKkmgAMrj6DmNYvu4EKrL42e-NR7AeKxkhGN0pGk/edit?usp=sharing).  
+:white_check_mark: **Task Completed**  
 
 
-3. Able to work well with basic Windows powershell commands found here: [Powershell](https://docs.google.com/document/d/1zYae1-hU_v3pDDPNgCNdXJWIMeI6i6yPvZ0mTtKAoeA/edit?usp=sharing). :white_check_mark: **Task Completed**  
+3. Able to work well with basic Windows powershell commands found here: [Powershell](https://docs.google.com/document/d/1zYae1-hU_v3pDDPNgCNdXJWIMeI6i6yPvZ0mTtKAoeA/edit?usp=sharing).  
+:white_check_mark: **Task Completed**  
   
 
 # AWS Cloud  
