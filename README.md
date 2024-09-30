@@ -61,11 +61,14 @@ As part of module 2 of NTU's Cloud Engineering course, our instructors have intr
 
 2. Create an EC2 and place it in your public subnet. Install an Apache Web Server on your EC2 and test whether it is publicly accessible via port 80 on the public IP.  
     - Further Test: Take an AMI snapshot of the EC2, copy it to another region, and start an EC2 from that AMI. Ensure that your EC2 is working as expected with Apache Web Server installed.  
+    :white_check_mark: **Task Completed**  
     - Further Test: Use ALB to direct traffic to it.  
 
 3. Create a new IAM user to give the user only READ ACCESS to S3 buckets. Add extra permissions to give the user more privilege and test.  
+:white_check_mark: **Task Completed**  
 
 4. Create an RDS (MySQL) in Dev environment (Single instance).  
+:white_check_mark: **Task Completed**  
     - Further Test: Connect to the RDS server using MySQL Workbench and test out: [LINK](https://docs.google.com/document/d/1OmGusjTDifEwjqnt94DUEgt09Y1U3YFuMJueqvFOTyE/edit?usp=sharing) > Connecting MySQL Workbench to RDS.  
 
 5. Further Test: Create an EFS and mount it to an EC2. Ensure you are able to view the EFS mount point on your EC2 and you are able to access the files on EFS. [LINK](https://digitalcloud.training/mounting-efs-on-ec2-instance/).  
